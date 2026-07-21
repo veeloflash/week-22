@@ -1,0 +1,200 @@
+[
+  {
+    "chunk_size": 100,
+    "top_k": 1,
+    "embedding_model": "TF-IDF",
+    "top_docs": [
+      1
+    ],
+    "avg_score": 0.541
+  },
+  {
+    "chunk_size": 100,
+    "top_k": 1,
+    "embedding_model": "MiniLM",
+    "top_docs": [
+      1
+    ],
+    "avg_score": 0.541
+  },
+  {
+    "chunk_size": 100,
+    "top_k": 3,
+    "embedding_model": "TF-IDF",
+    "top_docs": [
+      1,
+      4,
+      2
+    ],
+    "avg_score": 0.247
+  },
+  {
+    "chunk_size": 100,
+    "top_k": 3,
+    "embedding_model": "MiniLM",
+    "top_docs": [
+      1,
+      4,
+      2
+    ],
+    "avg_score": 0.247
+  },
+  {
+    "chunk_size": 100,
+    "top_k": 5,
+    "embedding_model": "TF-IDF",
+    "top_docs": [
+      1,
+      4,
+      2,
+      3,
+      5
+    ],
+    "avg_score": 0.148
+  },
+  {
+    "chunk_size": 100,
+    "top_k": 5,
+    "embedding_model": "MiniLM",
+    "top_docs": [
+      1,
+      4,
+      2,
+      3,
+      5
+    ],
+    "avg_score": 0.148
+  },
+  {
+    "chunk_size": 300,
+    "top_k": 1,
+    "embedding_model": "TF-IDF",
+    "top_docs": [
+      1
+    ],
+    "avg_score": 0.541
+  },
+  {
+    "chunk_size": 300,
+    "top_k": 1,
+    "embedding_model": "MiniLM",
+    "top_docs": [
+      1
+    ],
+    "avg_score": 0.541
+  },
+  {
+    "chunk_size": 300,
+    "top_k": 3,
+    "embedding_model": "TF-IDF",
+    "top_docs": [
+      1,
+      4,
+      2
+    ],
+    "avg_score": 0.247
+  },
+  {
+    "chunk_size": 300,
+    "top_k": 3,
+    "embedding_model": "MiniLM",
+    "top_docs": [
+      1,
+      4,
+      2
+    ],
+    "avg_score": 0.247
+  },
+  {
+    "chunk_size": 300,
+    "top_k": 5,
+    "embedding_model": "TF-IDF",
+    "top_docs": [
+      1,
+      4,
+      2,
+      3,
+      5
+    ],
+    "avg_score": 0.148
+  },
+  {
+    "chunk_size": 300,
+    "top_k": 5,
+    "embedding_model": "MiniLM",
+    "top_docs": [
+      1,
+      4,
+      2,
+      3,
+      5
+    ],
+    "avg_score": 0.148
+  },
+  {
+    "chunk_size": 500,
+    "top_k": 1,
+    "embedding_model": "TF-IDF",
+    "top_docs": [
+      1
+    ],
+    "avg_score": 0.541
+  },
+  {
+    "chunk_size": 500,
+    "top_k": 1,
+    "embedding_model": "MiniLM",
+    "top_docs": [
+      1
+    ],
+    "avg_score": 0.541
+  },
+  {
+    "chunk_size": 500,
+    "top_k": 3,
+    "embedding_model": "TF-IDF",
+    "top_docs": [
+      1,
+      4,
+      2
+    ],
+    "avg_score": 0.247
+  },
+  {
+    "chunk_size": 500,
+    "top_k": 3,
+    "embedding_model": "MiniLM",
+    "top_docs": [
+      1,
+      4,
+      2
+    ],
+    "avg_score": 0.247
+  },
+  {
+    "chunk_size": 500,
+    "top_k": 5,
+    "embedding_model": "TF-IDF",
+    "top_docs": [
+      1,
+      4,
+      2,
+      3,
+      5
+    ],
+    "avg_score": 0.148
+  },
+  {
+    "chunk_size": 500,
+    "top_k": 5,
+    "embedding_model": "MiniLM",
+    "top_docs": [
+      1,
+      4,
+      2,
+      3,
+      5
+    ],
+    "avg_score": 0.148
+  }
+]
