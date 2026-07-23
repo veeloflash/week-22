@@ -1,8 +1,0 @@
-{
-  "corpus": "Large language models use transformer architectures to understand context.\n\"\n    \"Transformer layers capture long-range dependencies through attention mechanisms.\n\"\n    \"Chunking breaks long documents into smaller units to improve retrieval accuracy.\n\"\n    \"Vector databases store embeddings so semantic search can find similar content.\n\"\n    \"RAG systems combine retrieval results with generation to answer user questions.\n\"\n    \"An embedding model converts raw text into dense vectors for similarity comparison.\n\"\n    \"Evaluation often measures whether retrieved chunks contain the expected answer.\n\"\n    \"Smaller chunks may improve precision but can increase fragmentation.\n\"\n    \"Larger chunks may improve context coverage but reduce focus.\n\"\n    \"Choosing the right chunk size is a core retrieval optimization problem.\n",
-  "chunk_sizes": [
-    100,
-    300,
-    500
-  ]
-}
